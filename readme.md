@@ -1,5 +1,5 @@
 #  page d'acceuil Google
 
-## mandajm
+## mandajm, lien vers la page: https://mandajm.github.io/Home_page_du_Google/
 
-## tezitra
+## tezitra, lien vers la page: https://mandajm.github.io/Home_page_du_Google/
